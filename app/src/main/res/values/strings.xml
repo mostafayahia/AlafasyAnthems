@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2018 Yahia H. El-Tayeb
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+          http://www.apache.org/licenses/LICENSE-2.0
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+
+    <string name="app_name">أنشودات عفاسية</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+    <!-- Names for buttons -->
+    <string name="play_str">تشغيـــل</string>
+    <string name="pause_str">إيقافـــ</string>
+    <string name="next_str">التالــى</string>
+    <string name="previous_str">السابق</string>
+    <string name="after_finish_repeat_str">تكرار بعد الأنتهاء</string>
+    <string name="after_finish_close_str">غلق التطبيق بعد الأنتهاء</string>
+    <string name="replay_str">إعادة تشغيــل</string>
+    
+    <!-- centralization -->
+    <!--  when I use the next lines the application failed to run -->
+    <string name="gravity">center</string>
+    <string name="font_size_str">21sp</string>
+    
+    <!-- ==========Names of anthems=========== -->
+    <string name="string0">لا إله إلا اللَّه</string>
+    <string name="string1">طلع البدر علينا</string>
+    <string name="string2">رحمن يا رحمن</string>
+    <string name="string3">يا أمى</string>
+    <string name="string4">أنا العبد</string>
+    <string name="string5">أغيب</string>
+    <string name="string6">ليس الغريب</string>
+
+</resources>
